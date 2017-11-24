@@ -1,0 +1,3 @@
+com/auth/SecurityConfig.class
+com/auth/OAuthConfig.class
+com/auth/AuthorizationServer.class
